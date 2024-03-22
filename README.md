@@ -1,27 +1,7 @@
-## Installing Tools
-- Eclipse & Embedded Maven
-- PostMan
-- Git Client - https://git-scm.com/
-- Rabbit MQ - https://www.rabbitmq.com/download.html
-
-
-### Installing Eclipse & Embedded Maven
-- Installation Video : https://www.youtube.com/playlist?list=PLBBog2r6uMCSmMVTW_QmDLyASBvovyAO3
-
-### Installing Rabbit MQ
-
-#### Windows
-- https://www.rabbitmq.com/install-windows.html
-- https://www.rabbitmq.com/which-erlang.html
-- http://www.erlang.org/downloads
-- Video - https://www.youtube.com/watch?v=gKzKUmtOwR4
-
-#### Mac
-- https://www.rabbitmq.com/install-homebrew.html
 
 ## Running Examples
 - Download the zip or clone the Git repository.
-- Unzip the zip file (if you downloaded one)
+- Unzip the zip file
 - Open Command Prompt and Change directory (cd) to folder containing pom.xml
 - Open Eclipse 
    - File -> Import -> Existing Maven Project -> Navigate to the folder where you unzipped the zip
@@ -30,6 +10,4 @@
 - Right Click on the file and Run as Java Application
 - You are all Set
 
-### Diagrams
 
-- Check notes.md
